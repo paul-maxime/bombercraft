@@ -1,0 +1,15 @@
+*.o
+*.fbm/
+*~
+
+score_save.sb
+soundOptions.txt
+
+gdl/
+build/
+Saves/
+
+bomberman
+libs/lua/lua
+libs/lua/luac
+libs/lua/liblua.a
